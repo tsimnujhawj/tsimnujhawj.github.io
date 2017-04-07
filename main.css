@@ -2,6 +2,10 @@ body {
   font: 18px Helvetica, Sans-Serif;
 }
 
+p {
+  text-align: center;
+}
+
 .title {
   font: Helvetica, Sans-Serif;
   font-size: 20px;
