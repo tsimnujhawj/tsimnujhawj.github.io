@@ -1,0 +1,30 @@
+footer ul li {
+    list-style: none;
+    display:inline;
+    margin:0 1.2rem
+}
+
+a.fa-solid,
+a.fa-brands {
+    font-size: 28px;
+    display: inline-block;
+    text-decoration: none;
+    margin: 0px;
+}
+
+a.fa-solid:hover,
+a.fa-brands:hover {
+    color: #dcdcdc;
+}
+
+a:hover {
+    color: #dcdcdc
+}
+
+footer {
+    padding-bottom: 50px;
+}
+
+.multi-column-list {
+    column-count: 2;
+}
