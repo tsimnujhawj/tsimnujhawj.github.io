@@ -58,3 +58,11 @@ div.job ul li:nth-child(3) {
 div.job ul li:nth-child(4) {
     padding-top: 5px;
 }
+
+.profile-avatar {
+  width: 23%;
+  float: inline-start;
+  margin-right: 10px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
